@@ -35,7 +35,6 @@ This Power BI dashboard provides a detailed analysis of e-commerce sales data ac
 📁 E-Commerce-Sales-Dashboard
 ├── README.md
 ├── E Commerce Sales Dashboard.pbix
-├── E Commerce Sales Dataset
 
 ```
 
